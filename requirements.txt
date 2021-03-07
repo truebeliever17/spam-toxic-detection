@@ -15,7 +15,7 @@ regex==2020.11.13
 scipy==1.5.4
 six==1.15.0
 smart-open==4.2.0
-torch==1.8.0+cpu
+torch==1.8.0
 torchaudio==0.8.0
 torchvision==0.9.0+cpu
 tqdm==4.59.0
