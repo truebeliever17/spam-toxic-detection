@@ -1,3 +1,6 @@
+https://download.pytorch.org/whl/cpu/torch-1.8.0%2Bcpu-cp36-cp36m-linux_x86_64.whl
+https://download.pytorch.org/whl/cpu/torchvision-0.9.0%2Bcpu-cp36-cp36m-linux_x86_64.whl
+torchaudio==0.8.0
 click==7.1.2
 Flask==1.1.2
 gensim==3.8.3
@@ -15,9 +18,6 @@ regex==2020.11.13
 scipy==1.5.4
 six==1.15.0
 smart-open==4.2.0
-torch==1.8.0
-torchaudio==0.8.0
-torchvision==0.9.0
 tqdm==4.59.0
 typing-extensions==3.7.4.3
 Werkzeug==1.0.1
