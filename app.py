@@ -33,7 +33,3 @@ def classify():
             return 'Message is empty'
     except KeyError:
         return "Field 'message' is not in the request body!"
-
-
-if __name__ == '__main__':
-    app.run(debug=True)
